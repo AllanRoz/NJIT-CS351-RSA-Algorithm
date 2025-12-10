@@ -121,7 +121,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- LICENSE -->
 ## License
 
-Distributed under the Apache License. See `LICENSE.txt` for more information.
+Distributed under the GPL-3.0 license. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
