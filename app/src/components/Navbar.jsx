@@ -23,6 +23,7 @@ export default function Navbar() {
               width: "24px",
               height: "24px",
               marginRight: "8px",
+              marginBottom: "4px",
             }}
           />
           RSA Encryption
