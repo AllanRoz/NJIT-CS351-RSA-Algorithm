@@ -10,7 +10,6 @@ export default function Navbar() {
       sx={{ width: "100%", boxShadow: "none", left: 0, top: 0 }}
     >
       <Toolbar sx={{ px: 2, display: "flex", justifyContent: "space-between" }}>
-        {/* LEFT SECTION */}
         <Typography
           variant="h6"
           sx={{ cursor: "pointer", display: "flex", alignItems: "center" }}
@@ -29,7 +28,6 @@ export default function Navbar() {
           RSA Encryption
         </Typography>
 
-        {/* RIGHT SECTION */}
         <Button color="inherit" onClick={() => navigate("/calculator")}>
           Calculator
         </Button>
