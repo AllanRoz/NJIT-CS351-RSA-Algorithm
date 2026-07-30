@@ -128,7 +128,7 @@ Distributed under the GPL-3.0 license. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Allan Rozario - allan@allanrozairo.com
+Allan Rozario - arozadev@gmail.com
 
 Project Link: [https://github.com/AllanRoz/NJIT-CS351-RSA-Algorithm](https://github.com/AllanRoz/NJIT-CS351-RSA-Algorithm)
 
